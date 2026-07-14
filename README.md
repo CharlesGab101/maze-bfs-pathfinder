@@ -19,8 +19,7 @@ Find the minimum number of moves needed to travel from a starting cell to a targ
 
 ## Instructions to Run the Program
 
-Step 1: Type "chmod u+x algorithm_one_1_.sh algorithm_two2_.sh" in the Terminal
+Step 1: Type "chmod u+x algorithm_one_1_.sh" in the Terminal
 Step 2: Run "./algorithm_one_1_.sh" to run Algorithm 1
-Step 3: Run "./algorithm_two2_.sh" to run Algorithm 2
 
 Purpose of the .sh files: Using bash helps link and compile the programs in this project.
